@@ -2,7 +2,12 @@
 
 The program creates an expression tree from a mathematical operation and solve it in correct sequence of operations. Considering operation signs and parentheses.
 
+## Compile by Makefile
+```bash
+make
+```
 
+## How it works
 ```bash
 ./szamol
 
